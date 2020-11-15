@@ -16,7 +16,6 @@ ul {
   width: 1600px;
   display: flex;
   position: relative;
-  border: 1px solid #000;
 }
 
 .header {
