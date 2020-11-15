@@ -8,7 +8,9 @@ a {
 ul {
   list-style: none;
 }
-
+body {
+  background-color: rgb(168, 48, 48);
+}
 .wrapper {
   width: 1200px;
   padding-left: 80px;
@@ -89,4 +91,11 @@ ul {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #9a9a9a;
+}
+
+.frame {
+  margin-left: 620px;
+  width: 500px;
+  height: 400px;
+  margin-top: 20px;
 }
