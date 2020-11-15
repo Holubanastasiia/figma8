@@ -14,8 +14,6 @@ ul {
 .wrapper {
   margin: 0 auto;
   width: 1600px;
-  display: flex;
-  position: relative;
 }
 
 .header {
