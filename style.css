@@ -20,6 +20,7 @@ ul {
   padding-left: 80px;
   padding-top: 35px;
   display: flex;
+  justify-content: center;
 }
 
 .menu_list {
@@ -85,9 +86,13 @@ ul {
 }
 
 .main {
+  display: flex;
+  justify-content: center;
+}
+
+.main_info {
   margin-top: 210px;
   margin-left: 200px;
-  display: flex;
 }
 
 .text {
@@ -100,6 +105,8 @@ ul {
 
 .frame {
   width: 500px;
-  padding-top: 0px;
-  padding-bottom: 75px;
+  margin-top: 160px;
+  margin-left: 27px;
+  margin-right: 50px;
+  margin-bottom: 170px;
 }
